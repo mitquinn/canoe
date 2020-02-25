@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba9ceaff-1b93-4a80-8c55-8132193370b4" name="Default Changelist" comment="" />
+    <list default="true" id="ba9ceaff-1b93-4a80-8c55-8132193370b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -104,6 +109,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1YEnmmrQElxiVXLrDSBQB1K2XM3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -139,7 +145,7 @@
       <updated>1582516782232</updated>
       <workItem from="1582516784371" duration="2078000" />
       <workItem from="1582555755928" duration="13000" />
-      <workItem from="1582605034780" duration="5306000" />
+      <workItem from="1582605034780" duration="5611000" />
     </task>
     <servers />
   </component>
